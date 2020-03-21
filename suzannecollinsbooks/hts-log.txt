@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Mar 2020 13:14:08 at +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qiC2%Ps0u1%s%uN0%I0p3DaK0c8T60J1000000R3H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -%L "C:\Users\Jakob\Downloads\_Downloaded Sites\_downloaded sites\www_suzannecollinsbooks_com.txt" -O1 "C:\Users\Jakob\Downloads\_Downloaded Sites\suzannecollinsbooks" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:08	Warning: 	14 links added from C:\Users\Jakob\Downloads\_Downloaded Sites\_downloaded sites\www_suzannecollinsbooks_com.txt
+13:14:16	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/services/tinymce/js/tinymce/tinymce.min.js (from www.suzannecollinsbooks.com/index.htm)
+13:14:19	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/fonts/fontawesome-webfont.eot?v=4.6.3 (from www.suzannecollinsbooks.com/theme/theme.css)
+13:14:19	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/fonts/fontawesome-webfont.eot? (from www.suzannecollinsbooks.com/theme/theme.css)
+13:14:19	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/fonts/fontawesome-webfont.woff2?v=4.6.3 (from www.suzannecollinsbooks.com/theme/theme.css)
+13:14:19	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/fonts/fontawesome-webfont.woff?v=4.6.3 (from www.suzannecollinsbooks.com/theme/theme.css)
+13:14:19	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/fonts/fontawesome-webfont.ttf?v=4.6.3 (from www.suzannecollinsbooks.com/theme/theme.css)
+13:14:19	Error: 	"Not Found" (404) at link www.suzannecollinsbooks.com/fonts/fontawesome-webfont.svg?v=4.6.3 (from www.suzannecollinsbooks.com/theme/theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 57 links scanned, 50 files written (2014890 bytes overall), 18 files updated [227516 bytes received at 18959 bytes/sec], 648940 bytes transferred using HTTP compression in 17 files, ratio 32%, 7.1 requests per connection
+(7 errors, 1 warnings, 0 messages)
