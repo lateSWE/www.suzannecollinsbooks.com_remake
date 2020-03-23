@@ -3,19 +3,73 @@
     padding: 0;
 }
 
-footer{
-    width: 100%;
-    height: 300px;
-    background-color: #777;
+.footer{
+    background-color: #333;
+    height: 120px;
 }
-
-#footer-left{
-    width: 50%;
-    height: 50%;
-}
-
 
 #footer-right{
     width: 50%;
+    height: 100%;
+    float: left;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#footer-socialmedia-div{
     height: 50%;
+}
+
+.footer-socialmedia{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 25px;
+}
+
+#contact-info{
+    height: 50%;
+    padding: 30px 0 0 25px;
+}
+#footer-email-text{
+    color: white;
+}
+
+
+
+#footer-left{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#footer-ul {
+    list-style-type: none;
+    margin-top: 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+}
+
+.footer-li {
+    float: left;
+    display: flex;
+    height: 100%;
+    justify-content: space-evenly;
+} 
+.footer-li-a {
+    color: white;
+    flex: 1;
+    align-self: center;
+    vertical-align: middle;
+    padding: 45px 35px;
+    font-size: 25px;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+.footer-li-a:hover:not(.active) {
+    background-color: #999;
 }
