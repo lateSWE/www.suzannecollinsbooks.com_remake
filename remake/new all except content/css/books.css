@@ -59,6 +59,7 @@ main{
     color: black;
     cursor: pointer;
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
 }
 #h1-special{
     height: 40%;

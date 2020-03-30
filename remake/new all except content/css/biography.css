@@ -39,9 +39,13 @@ main{
 }
 #biografy > img{
     width: 40%;
-    padding: 50px 0px 50px 0px;
+    padding: 25px 0px 50px 0px;
 }
-#biografy > p{
+#biografy > p:not(#title){
     padding: 0px 50px 40px 50px;
-    
+}
+#title{
+    padding: 25px 0px 0px 0px;
+    font-size: 350%;
+    font-family: 'Montserrat', sans-serif;
 }
