@@ -31,8 +31,6 @@ main{
     margin: 50px 0% 50px 0%;
     height: 200px;
 
-    background-color: #cc7a00;
-
     display: flex;
     flex-direction: row;
     justify-content: start;
@@ -56,17 +54,19 @@ main{
     font-size: 150%;
 
     font-weight: bold;
-    color: black;
+    color: #dddddd;
     cursor: pointer;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
 }
 #h1-special{
     height: 40%;
+    color: #dddddd;
 }
 .book > div > p{
     width: 100%;
     height: 80%;
+    color: #dddddd;
 }
 #p-special{
     height: 60%;

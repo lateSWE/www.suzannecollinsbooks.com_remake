@@ -29,7 +29,6 @@ main{
     margin: 50px 0px 50px 0px;
     padding: 0px;
 
-    background-color: #cc7a00;
     display: flex;
     flex-direction: column;
     justify-items: center;
@@ -43,9 +42,11 @@ main{
 }
 #biografy > p:not(#title){
     padding: 0px 50px 40px 50px;
+    color: #dddddd;
 }
 #title{
     padding: 25px 0px 0px 0px;
     font-size: 350%;
     font-family: 'Montserrat', sans-serif;
+    color: #dddddd;
 }
